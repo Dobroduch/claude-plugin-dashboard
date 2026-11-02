@@ -1,0 +1,6 @@
+{
+  "name": "active-surface",
+  "version": "0.1.0",
+  "description": "A quiet bar above the prompt showing installed plugins and known skills, with real toggles for plugins",
+  "types": "./types/index.d.ts"
+}
